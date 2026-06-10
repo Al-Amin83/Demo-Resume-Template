@@ -4,15 +4,10 @@ A personal demo resume built with pure HTML, designed to showcase my education, 
 
 ## 🔗 Live Site
 
-👉 [View Live Resume](https://your-username.github.io/portfolio-resume/)
+👉 [View Live Resume](https://github.com/Al-Amin83/Demo-Resume-Template)
 
 ---
 
-## 📸 Preview
-
-![Resume Preview](preview.png)
-
----
 
 ## 🚀 Features
 
