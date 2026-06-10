@@ -37,8 +37,8 @@ A personal demo resume built with pure HTML, designed to showcase my education, 
 ```
 portfolio-resume/
 │
-├── index.html       # Main resume file
-├── profile.jpg      # Profile picture (add your own)
+├── Resume.html       # Main resume file
+├── Profile.jpg      # Profile picture (add your own)
 └── README.md        # Project documentation
 ```
 
@@ -78,9 +78,9 @@ To make this resume your own:
 
 | What to change | Where to find it |
 |---|---|
-| Name, bio, contact info | `index.html` — Hero and Sidebar sections |
+| Name, bio, contact info | `Resume.html` — Hero and Sidebar sections |
 | Profile picture | Replace `Profile.jpg` with your own photo |
-| Skills & experience | `index.html` — Timeline and Tag sections |
+| Skills & experience | `Resume.html` — Timeline and Tag sections |
 
 ---
 
